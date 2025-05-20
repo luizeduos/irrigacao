@@ -20,7 +20,7 @@ DHT dht(DHTPIN, DHTTYPE);
 LiquidCrystal lcd(8, 9, 10, 11, 12, 13);
 
 unsigned long tempoAnterior = 0;
-const unsigned long intervalo = 15000;
+const unsigned long intervalo = 5000;
 bool mostrarSolo = true;
 
 void setup() {
