@@ -48,4 +48,4 @@ O sensor DHT22 usa a biblioteca DHT para leitura.
 - Código alterna a exibição da linha 2 do LCD entre umidade e temperatura a cada 15 segundos.
 
 ## Autor
-## Feito por luizeduos
+- Feito por luizeduos
