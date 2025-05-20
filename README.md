@@ -25,7 +25,7 @@ O sistema também exibe informações em um display LCD 16x2, alternando a cada 
 
 - Exibe dados e status no display LCD
 
-- Alterna a cada 15 segundos entre mostrar umidade do solo + ar e temperatura
+- Alterna a cada 5 segundos entre mostrar umidade do solo + ar e temperatura
 
 ## Uso
 - Conecte os sensores e relé conforme os pinos do código.
