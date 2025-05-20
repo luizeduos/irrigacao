@@ -1,6 +1,5 @@
 # Sistema de Irrigação Automático – Mata Atlântica
 
-```text
 ##       ##  ##    ####    ######   ######   ####     ##  ##    ####     ####
 ##       ##  ##     ##         ##   ##       ## ##    ##  ##   ##  ##   ##  ##
 ##       ##  ##     ##        ##    ##       ##  ##   ##  ##   ##  ##   ##
@@ -9,7 +8,6 @@
 ##       ##  ##     ##     ##       ##       ## ##    ##  ##   ##  ##   ##  ##
 ######    ####     ####    ######   ######   ####      ####     ####     ####
                             feito por luizeduos
-```
 ## Descrição
 Este projeto é um sistema automatizado de irrigação para plantas, com foco na Mata Atlântica. Utiliza sensores para monitorar a umidade do solo e as condições do ar, acionando uma bomba de água quando necessário.
 
